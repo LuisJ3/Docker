@@ -14,7 +14,7 @@ services:
 
   app:
     build:
-      context: ../UserApp
+      context: ../Spring/UserApp
       dockerfile: Dockerfile
     ports:
       - "8080:8080"

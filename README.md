@@ -1,1 +1,1 @@
-Docker compose for UserApp
+Docker compose for UserService
